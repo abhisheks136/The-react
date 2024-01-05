@@ -1,0 +1,18 @@
+.cros{
+    
+    margin-top:-4px;
+    margin-left:600px;
+    position:absolute;
+    display:inline-block;
+}
+.chk{
+    margin-left : 580px;
+    position:absolute;
+    display:inline-block;
+}
+li{
+    list-style-type:none;
+                 display:flex;
+    border-bottom: 1px solid black;             
+
+}
